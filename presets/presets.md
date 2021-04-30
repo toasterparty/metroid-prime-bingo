@@ -1,12 +1,18 @@
+### Quick Links
+- [Welcome](index.md)
+- [Bingosync](https://www.bingosync.com/)
+- [Presets](presets/presets.md)
+- [Rules](rules.md)
+
 # Presets
 
 While you can use any preset you would like, bingo boards are specifically tested for balance/completability against the below presets.
 
-*Note: Randomizer seeds require nothing and/or duplicate items to be completable.*
+*Note: Randomizer seeds require nothing or duplicate items to be completable.*
 
-## Odd Weekly Settings
+### Odd Weekly Settings
 
-[DOWNLOAD](odd_weekly.json)
+[DOWNLOAD](odd_weekly.json) (right-click ➝ `Save link as...`)
 
 Based off the Odd Weekly Settings preset used for weekly races, this includes:
 - Starting Items: Scan, Charge

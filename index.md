@@ -1,3 +1,9 @@
+### Quick Links
+- [Welcome](index.md)
+- [Bingosync](https://www.bingosync.com/)
+- [Presets](presets/presets.md)
+- [Rules](rules.md)
+
 # Welcome
 
 Welcome to the wacky world of Metroid Prime Randomizer Bingo. Here, players race to fill squares on a not-so-traditional 5x5 bingo card by completing tasks such as "Defeat Hive Mecha" or "Activate the Observatory".
