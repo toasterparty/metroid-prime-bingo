@@ -2,14 +2,14 @@
 
 Welcome to the wacky world of Metroid Prime Randomizer Bingo. Here, players race to fill squares on a not-so-traditional 5x5 bingo card by completing tasks such as "Defeat Hive Mecha" or "Activate the Observatory".
 
-![](\img\board.png)
+![](img/board.png)
 
 # Getting Started
 
 1) If you have not already, familiarize yourself with how to generate and play [Metroid Prime Randomizer seeds](https://randomizer.metroidprime.run/).
 2) Generate a seed and distribute to the other players. Randomizer presets tailored specifically for Bingo can be found on the [Presets Page](presets.md)
 3) Create a room on [Bingosync](https://www.bingosync.com/) for *Metroid Prime* like so:
-![](\img\create.png)
+![](img/create.png)
 4) Have all participants join the room using the password set above.
 5) Reveal the card and start the game when appropriate. Fill tiles on the board as they are completed. Have fun!
 
