@@ -12,7 +12,11 @@ While you can use any preset you would like, bingo boards are specifically teste
 
 ### Odd Weekly Settings
 
-[DOWNLOAD](odd_weekly.json) (right-click ➝ `Save link as...`)
+{% raw %}
+<a href="odd_weekly.json" download>
+  <button>Download</button>
+</a>
+{% endraw %}
 
 Based off the Odd Weekly Settings preset used for weekly races, this includes:
 - Starting Items: Scan, Charge
