@@ -6,7 +6,7 @@
 
 # Rules
 
-In addition to standard Metroid Prime Randomizer racing rules, the followin rules apply:
+In addition to standard Metroid Prime Randomizer racing rules, the following rules apply:
 
 # Modes
 
@@ -20,7 +20,7 @@ The board is revealed when time starts. The game is over when a player completes
 
 When creating the Bingosync room, choose "Lockout" as the Mode.
 
-The board is revealed when time starts. The first player to complete any 13 tiles wins. Each tile can only be completed by 1 player. Clicking on the corresponding square on Bingosync "locks" the other player from being able to complete that tile. If one player completes an objective, but forgets to click a tile before the other player completes that same objective, the tile goes to the first player to actually click the tile on Bingosync. If a player looses items due to a death or softlock, the corresponding item-related goals become availible to be "stolen" by their opponent until
+The board is revealed when time starts. The first player to complete any 13 tiles wins. Each tile can only be completed by 1 player. Clicking on the corresponding square on Bingosync "locks" the other player from being able to complete that tile. If one player completes an objective, but forgets to click a tile before the other player completes that same objective, the tile goes to the first player to actually click the tile on Bingosync. If a player loses items due to a death or softlock, the corresponding item-related goals become available to be "stolen" by their opponent until
 
 ### Double Anti-Bingo (DAB) (2+ Players)
 
@@ -38,8 +38,10 @@ The winner is the first player to complete all bingo tiles in the forced line in
 # Reset
 
 In the event of an unexpected death, softlock or crash, the affected player may have progress towards certain tiles reverted. In the event of a reset:
-- **Item-Related Goals** - Reverts to match the new player inventory state. For example, if a player dies after compelting the `40 Missiles`, `Get Plasma Processing Item` and `Ice Beam` tiles, but their last save was before all 3 of those events, then they must unmark those boxes on bingosync and recollect those items before .
+- **Item-Related Goals** - Reverts to match the new player inventory state. For example, if a player dies after completing the `40 Missiles`, `Get Plasma Processing Item` and `Ice Beam` tiles, but their last save was before all 3 of those events, then they must unmark those boxes on bingosync and recollect those items before remarking them.
+- **Action Goals** - Completion persists through the reset. For example, `Use 2 Map Stations`, `Activate the Observatory` and `2 Mini-Bosses` all remain completed after a reset.
 
-Abusing this rule to warp to save stations after completing Actions is frowned upon.
+Abusing this rule to deathwarp to save stations after completing Action Goals is frowned upon.
 
 # Goals
+*A neat list of all the goals and their descriptions will go here.*
