@@ -8,7 +8,7 @@ Welcome to the wacky world of Metroid Prime Randomizer Bingo. Here, players race
 
 1) If you have not already, familiarize yourself with how to generate and play [Metroid Prime Randomizer seeds](https://randomizer.metroidprime.run/).
 
-2) Generate a seed and distribute to the other players. Randomizer presets tailored specifically for Bingo can be found on the [Presets Page](presets.md).
+2) Generate a seed and distribute to the other players. Randomizer presets tailored specifically for Bingo can be found on the [Presets Page](presets/presets.md).
 
 3) Create a room on [Bingosync](https://www.bingosync.com/) for *Metroid Prime* like so:
 
