@@ -1,0 +1,48 @@
+{
+	"Bingo (Vanilla Elevators)": {
+		"excludeLocations": [],
+		"itemOverrides": [
+			{
+				"count": 1,
+				"name": "Charge Beam",
+				"state": "starting-item"
+			}
+		],
+		"romSettings": {
+			"enableMainPlazaLedgeDoor": true,
+			"hideItemModels": false,
+			"skipFrigate": true,
+			"skipHudPopups": true,
+			"skipImpactCrater": true
+		},
+		"rules": {
+			"artifactLocationHints": true,
+			"elevatorShuffle": false,
+			"goal": "artifact-collection",
+			"goalArtifacts": 3,
+			"heatProtection": "varia-only",
+			"junkItems": "random-items",
+			"pointOfNoReturnItems": "do-not-allow",
+			"randomStartingItems": {
+				"maximum": 0,
+				"minimum": 0
+			},
+			"shuffleMode": "full",
+			"startingArea": 20,
+			"suitDamageReduction": "progressive"
+		},
+		"tricks": [
+			"destroyBombCoversWithPowerBombs",
+			"fieryShoresAccessWithoutMorphGrapple",
+			"furnaceAccessWithoutSpider",
+			"hallOfTheEldersBombSlotsWithoutSpider",
+			"mainPlazaItemsOnlySpaceJump",
+			"towerChamberNoGravity",
+			"climbReflectingPoolWithoutBoostBall",
+			"gatheringHallWithoutSpaceJump",
+			"phendranaTransportSouthToTransportAccessWithoutSpider",
+			"wateryHallUnderwaterFlaahgraSkip",
+			"lateMagmoorNoHeatProtection"
+		]
+	}
+}
