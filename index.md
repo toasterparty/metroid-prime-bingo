@@ -1,10 +1,10 @@
+# Welcome
+
 ### Quick Links
 - [Welcome](index.md)
 - [Bingosync](https://www.bingosync.com/)
 - [Presets](presets/presets.md)
 - [Rules](rules.md)
-
-# Welcome
 
 Welcome to the wacky world of Metroid Prime Randomizer Bingo. Rather than marking squares announced from a caller, players instead race to fill squares on a not-so-traditional 5x5 bingo card where each square represent a specific tasks in the game.
 

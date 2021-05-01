@@ -1,10 +1,10 @@
+# Presets
+
 ### Quick Links
 - [Welcome](../index.md)
 - [Bingosync](https://www.bingosync.com/)
 - [Presets](presets.md)
 - [Rules](../rules.md)
-
-# Presets
 
 While you can use any preset you would like, bingo boards are specifically tested for balance/completability against the below presets.
 

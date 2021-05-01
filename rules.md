@@ -1,10 +1,10 @@
+# Rules
+
 ### Quick Links
 - [Welcome](index.md)
 - [Bingosync](https://www.bingosync.com/)
 - [Presets](presets/presets.md)
 - [Rules](rules.md)
-
-# Rules
 
 In addition to standard Metroid Prime Randomizer racing rules, the following rules apply:
 
