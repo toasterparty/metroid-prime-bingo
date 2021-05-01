@@ -37,8 +37,8 @@ The winner is the first player to complete all bingo tiles in the forced line in
 
 # Reset
 
-In the event of an unexpected death, softlock or crash, the affected player may have progress towards certain tiles reverted. In the event of a reset:
-- **Item-Related Goals** - Reverts to match the new player inventory state. For example, if a player dies after completing the `40 Missiles`, `Get Plasma Processing Item` and `Ice Beam` tiles, but their last save was before all 3 of those events, then they must unmark those boxes on bingosync and recollect those items before remarking them.
+In the event of an unexpected death, softlock or crash, the affected player may have progress towards certain tiles reverted. In the event of a reset, apply the following:
+- **Item Goals** - Completion reverts to match the new player inventory state. For example, if a player dies after completing the `40 Missiles`, `Get Plasma Processing Item` and `Ice Beam` tiles, but their last save was before all 3 of those events, then they must unmark those boxes on bingosync and recollect those items before remarking them.
 - **Action Goals** - Completion persists through the reset. For example, `Use 2 Map Stations`, `Activate the Observatory` and `2 Mini-Bosses` all remain completed after a reset.
 
 Abusing this rule to deathwarp to save stations after completing Action Goals is frowned upon.
