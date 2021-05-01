@@ -44,4 +44,174 @@ In the event of an unexpected death, softlock or crash, the affected player may 
 Abusing this rule to deathwarp to save stations after completing Action Goals is frowned upon.
 
 # Goals
-*A neat list of all the goals and their descriptions will go here.*
+
+### Minor/Major Boss (By Name)
+
+Simply defeat the named boss.
+
+### X Minor Bosses
+
+Defeat the specified number of Minor Bosses. Minor Bosses include:
+- Hive Mecha
+- Plated Beetle
+- Incinerator Drone
+- Chozo Ghosts
+- Adult Sheegoth
+- Elite Pirate
+- Cloaked Drone
+- Phazon Elite
+
+Only the first of each mini-boss type (e.g. Elite Pirate) counts towards the goal.
+
+### X Major Bosses
+
+Defeat the specified number of Major Bosses. Major Bosses include:
+- Flaahgra
+- Thardus
+- Omega Pirate
+- Meta Ridley
+- Metroid Prime (Exo and Essence as one)
+
+### Defeat X Colored Pirates using Y
+
+Defeat the specified number of Colored Pirates (X) using beam combo (Y). Only the killing blow needs to be the beam combo for it to count. Pirates cannot be repeated.
+
+### Clear X in Y Rooms
+
+Find (Y) rooms with the specified enemy type (X), and defeat all of that enemy in that room. Rooms cannot be repeated.
+
+### Boost in X Spinners
+
+Use the specified number of spinners with boost ball. Spinners cannot be repeated.
+
+### Break X Covers/Walls/Rubble Using Y
+
+Find and break the specified number of destructible objects (X) using the specified item (Y). Destructible objects cannot be repeated.
+
+### All Hall of the Elders Bomb Slots
+
+Activate all 4 bomb slots in HoTE. HoTE and Elder Chamber items are optional.
+
+### Activate the Observatory
+
+Use the scan panel, 2 bomb slots and 4 spinners to activate the Observatory in Phendrana Drifts.
+
+### X Item
+
+Collect the item in the specified location.
+
+### All 3 Vanilla Beam Location Items
+
+Collect the items in Antechamber, Chapel of the Elders and Plasma Processing.
+
+### <Item Name>
+
+Find and collect the specified item.
+
+### Have X Y
+
+Find and collect the specified item (Y) until you have met the count (X). For example, "Have 3 Suits" means that you need to have Varia, Gravity and Phazon. Picking up Varia, Gravity and a duplicate Varia would NOT count.
+
+### Use a Save Station in X Regions
+
+Use at least 1 save station in X regions. This can include Impact Crater, but it will never be required.
+
+### Use X Y Save/Map/Missile Stations
+
+Use the specified number of Save, Map or Missile Stations (X) in the specified Region (Y).
+
+# Locations
+
+### Plated Beetle
+- **Ruined Shrine**
+- **Main Plaza** - After defeating Flaahgra
+
+### Sheegoth
+- **Chapel of the Elders**
+- **Quarantine Cave** - After defeating Thardus
+- **Ice Ruins East** - After obtaining “Research Core” Item
+- **Ice Ruins West** - After obtaining “Research Core” Item
+
+### Elite Pirates
+- **Elite Control**
+- **Omega Research** - After Defeating Cloaked Drone
+- **Dynamo Access** - Have Plasma Beam
+
+### Chozo Ghosts
+- **Hall of the Elders** - First visit
+- **Furnace** - After using the Wave Bomb Slot in “Hall of the Elders”
+- **Ruined Shrine** - After using the Wave Bomb Slot in “Hall of the Elders”
+- **Arboretum** - After using the Wave Bomb Slot in “Hall of the Elders”
+- **Training Chamber** - First visit
+- **Sunchamber** - After defeating Flaaghra and going partially down “Sun Tower”
+- **Life Grove** - First visit
+
+### Flying Pirates
+- **Frigate Crash Site**
+- **Magmoor Workstation**
+- **Monitor Station**
+- **Triclops Pit**
+- **Ruined Courtyard**
+- **Control Tower**
+- **Research Core**
+- **Frozen Pike**
+- **Frost Cave**
+- **Hunter Cave**
+- **Phendrana’s Edge**
+
+### Shadow Pirate
+- **Specimen Storage** (yes that's a Shadow Pirate, it just isn’t invisible)
+- **Research Entrance** - After obtaining “Research Core” item
+- **Research Lab Hydra** - After obtaining “Research Core” item
+- **Research Lab Aether** - After obtaining “Research Core” item
+- **Research Core** - After obtaining “Research Core” item
+- **Mine Security Station** - First visit
+- **Elite Control** - After defeating the Elite Pirate here
+- **Security Access A**
+- **Security Access B**
+
+### Power Pirates
+- **Elite Research** - First visit
+- **Ore Processing** - Before releasing the Metroids in “Metroid Quarantine A”.
+- **Omega Research**
+- **Phazon Processing Center** - After obtaining “Plasma Processing” item.
+- **Elite Quarters** - During Omega Pirate fight only
+
+### Wave Pirates
+- **Elite Research** - First visit
+- **Ore Processing** - Before releasing the Metroids in “Metroid Quarantine A”.
+- **Omega Research**
+- **Mine Security Station**
+- **Metroid Quarantine B**
+- **Phazon Processing Center** - After obtaining “Plasma Processing” item.
+- **Elite Quarters** - During Omega Pirate fight only
+
+### Ice Pirates
+- **Elite Control** - Only spawns before Elite Pirate here is defeated.
+- **Central Dynamo** - On return after defeating Cloaked Drone.
+- **Mine Security Station** - Return after first visit.
+- **Elite Quarters** - During Omega Pirate fight only
+
+### Plasma Pirates
+- **Metroid Quarantine B**
+- **Phazon Processing Center** - After obtaining “Plasma Processing” item.
+- **Elite Quarters Access** - First visit
+- **Elite Quarters** - During Omega Pirate fight only
+
+### Metroids
+- **Research Lab Hydra** - After obtaining “Research Core” item
+- **Research Lab Aether**
+- **Research Core** - After obtaining “Research Core” item
+- **Ore Processing** - After releasing the Metroids in “Metroid Quarantine A”
+- **Metroid Quarantine A**
+- **Fungal Hall B**
+
+### Super Missile Walls
+- **Biohazard Containment**
+- **Main Plaza**
+- **Sun Tower x2**
+- **Crossway**
+- **Phendrana Shorelines**
+- **Ruined Courtyard**
+- **Research Lab Hydra**
+- **Metroid Quarantine B**
