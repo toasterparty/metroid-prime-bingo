@@ -6,6 +6,7 @@ def main():
     input_file = open('bingo.json')
     txt = open('build/bingo.txt', "w")
     js  = open('build/bingo.js', "w")
+    js.write('var bingoList = [];\n')
 
     data = json.load(input_file)
     input_file.close()
