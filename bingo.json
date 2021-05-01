@@ -1,0 +1,348 @@
+{
+    "goals": [
+        {
+            "name": "{X} Minor Bosses",
+            "variants": [
+                [2,  "2"],
+                [6,  "3"],
+                [13, "4"],
+                [22, "5"]
+            ],
+            "types": ["minor-boss"]
+        },
+        {
+            "name": "{X} Elite Pirate(s)",
+            "variants": [
+                [9,  "1"],
+                [15, "2"],
+                [20, "3"]
+            ],
+            "types": ["minor-boss", "mines"]
+        },
+        {
+            "name": "{X} Plated Beetle(s)",
+            "variants": [
+                [1, "1"],
+                [5, "2"]
+            ],
+            "types": ["minor-boss", "chozo"]
+        },
+        {
+            "name": "{X} Adult Sheegoth",
+            "variants": [
+                [4,  "1"],
+                [12, "2"],
+                [18, "3"],
+                [21, "4"]
+            ],
+            "types": ["minor-boss", "phendrana"]
+        },
+        {
+            "name": "{X}",
+            "variants": [
+                [1,  "Hive Mecha", "chozo"],
+                [4,  "Incinerator Drone", "chozo"],
+                [13, "Phazon Elite", "mines"],
+                [18, "Cloaked Drone", "mines"],
+                [21, "Life Grove Ghosts", "tallon"]
+            ],
+            "types": ["minor-boss"]
+        },
+        {
+            "name": "{X} Major Boss(es)",
+            "variants": [
+                [3,  "1"],
+                [8,  "2"],
+                [21, "3"],
+                [25, "4"]
+            ],
+            "types": ["major-boss"]
+        },
+        {
+            "name": "{X}",
+            "variants": [
+                [5, "Flaahgra", "chozo"],
+                [9, "Thardus", "phendrana"],
+                [22, "Omega Pirate", "mines"],
+                [24, "Meta Ridley", "tallon"]
+            ],
+            "types": ["major-boss"]
+        },
+        {
+            "name": "Defeat {X}",
+            "variants": [
+                [12, "3 Power Pirates using Super Missiles", "mines"],
+                [14, "3 Wave Pirates using Wavebuster", "mines"],
+                [14, "3 Ice Pirates using Ice Spreader", "mines"],
+                [21, "3 Plasma Pirates with Flamethrower", "mines"],
+                [20, "1 Enemy using Flamethrower (Magmoor or Larger)"]
+            ],
+            "types": ["beam-combo"]
+        },
+        {
+            "name": "Clear Ghosts in {X} Rooms",
+            "variants": [
+                [5,  "2"],
+                [4,  "4"],
+                [19, "6"]
+            ],
+            "types": ["ghost"]
+        },
+        {
+            "name": "Clear Flying Pirates in {X} Rooms",
+            "variants": [
+                [9,  "3"],
+                [16, "6"],
+                [22, "9"]
+            ],
+            "types": ["flying-pirate"]
+        },
+        {
+            "name": "Clear Shadow Pirates in {X} Rooms",
+            "variants": [
+                [7,  "2"],
+                [15, "4"],
+                [20, "6"]
+            ],
+            "types": ["shadow-pirate"]
+        },
+        {
+            "name": "Clear Metroids in {X} Room(s)",
+            "variants": [
+                [8,  "1"],
+                [13, "3"],
+                [23, "5"]
+            ],
+            "types": ["metroid"]
+        },
+        {
+            "name": "Clear Hunter Metroids in Fungal Hall A",
+            "variants": [[15, ""]],
+            "types": ["metroid", "mines"]
+        },
+        {
+            "name": "Boost in {X} Spinners",
+            "variants": [
+                [11, "5"],
+                [16, "7"],
+                [21, "10"]
+            ],
+            "types": ["spinner"]
+        },
+        {
+            "name": "Break {X} Covers/Walls/Rubble Using Power Bombs",
+            "variants": [
+                [5,  "3"],
+                [10, "5"]
+            ],
+            "types": ["break"]
+        },
+        {
+            "name": "Break {X} Covers/Walls/Rubble Using Super Missiles",
+            "variants": [
+                [12, "3"],
+                [19, "5"]
+            ],
+            "types": ["break"]
+        },
+        {
+            "name": "All Hall of the Elders Bomb Slots",
+            "variants": [[8, ""]],
+            "types": ["chozo"]
+        },
+        {
+            "name": "Activate the Observatory",
+            "variants": [[18, ""]],
+            "types": ["phendrana", "spinner"]
+        },
+        {
+            "name": "{X} Item",
+            "variants": [
+                [9,  "Arbor Chamber", "tallon"],
+                [15, "Biohazard Containment", "tallon"],
+                [15, "Life Grove Tunnel", "tallon"],
+                [6,  "Ruined Gallery (Tunnel)", "chozo"],
+                [7,  "Ruined Courtyard", "chozo"],
+                [9,  "Tower of Light", "chozo"],
+                [10, "Elder Chamber", "chozo"],
+                [14, "Main Plaza (Tree)", "chozo"],
+                [16, "Dynamo (Upper)", "chozo"],
+                [18, "Training Chamber", "chozo"],
+                [18, "Sunchamber (Ghosts)", "chozo"],
+                [19, "Furnace (Upper)", "chozo"],
+                [6,  "Magmoor Workstation", "magmoor"],
+                [19, "Plasma Processing", "magmoor"],
+                [10, "Quarantine Monitor", "phendrana"],
+                [12, "Research Core", "phendrana"],
+                [13, "Gravity Chamber (Lower)", "phendrana"],
+                [16, "Research Lab Hydra", "phendrana"],
+                [17, "Phendrana Shorelines (Spider Track)", "phendrana"],
+                [17, "Storage Cave", "phendrana"],
+                [19, "Gravity Chamber (Upper)", "phendrana"],
+                [19, "Storage Depot A", "mines"],
+                [23, "Metroid Quarantine B", "mines"],
+                [23, "Processing Center Access", "mines"],
+                [24, "Phazon Mining Tunnel", "mines"]
+            ],
+            "types": ["location"]
+        },
+        {
+            "name": "All 3 Vanilla Beam Location Items",
+            "variants": [[18, ""]],
+            "types": ["location"]
+        },
+        {
+            "name": "{X}",
+            "variants": [
+                [4,  "Morph Ball Bombs", "ball-upgrade"],
+                [11, "Boost Ball", "ball-upgrade"],
+                [11, "Spider Ball", "ball-upgrade"],
+                [16, "Main Power Bombs", "ball-upgrade", "power-bomb"],
+                [2,  "Space Jump Boots"],
+                [16, "Grapple Beam"],
+                [3,  "Varia Suit", "suit"],
+                [12, "Gravity Suit", "suit"],
+                [21, "Phazon Suit", "suit"],
+                [5,  "Wave Beam", "beam"],
+                [7,  "Ice Beam", "beam"],
+                [15, "Plasma Beam", "beam"],
+                [9,  "Super Missiles", "beam-combo"],
+                [10, "Wavebuster", "beam-combo"],
+                [10, "Ice Spreader", "beam-combo"],
+                [10, "Flamethrower", "beam-combo"],
+                [8,  "Thermal Visor", "visor"],
+                [12, "X-Ray Visor", "visor"],
+                [7,  "Duplicate/Nothing Item"]
+            ],
+            "types": ["item"]
+        },
+        {
+            "name": "Have {X} Missiles (Capacity)",
+            "variants": [
+                [2,  "40"],
+                [11, "70"],
+                [17, "100"],
+                [23, "130"]
+            ],
+            "types": ["item", "missile"]
+        },
+        {
+            "name": "Have {X} E-Tanks",
+            "variants": [
+                [3,  "3"],
+                [11, "6"],
+                [20, "9"],
+                [25, "12"]
+            ],
+            "types": ["item", "etank"]
+        },
+        {
+            "name": "Have Morph Ball + 4 Ball Upgrades",
+            "variants": [[22, ""]],
+            "types": ["item", "ball-upgrade"]
+        },
+        {
+            "name": "Have 4 Beams",
+            "variants": [[17, ""]],
+            "types": ["item", "beam"]
+        },
+        {
+            "name": "Have {X} Beam Combo(s)",
+            "variants": [
+                [3,  "1"],
+                [8,  "2"],
+                [16, "3"],
+                [24, "4"]
+            ],
+            "types": ["item", "beam-combo"]
+        },
+        {
+            "name": "Have {X} Power Bomb Expansion(s)",
+            "variants": [
+                [4,  "1"],
+                [10, "2"],
+                [17, "3"],
+                [24, "4"]
+            ],
+            "types": ["item", "power-bomb"]
+        },
+        {
+            "name": "Have 4 Visors",
+            "variants": [[20, ""]],
+            "types": ["item", "visor"]
+        },
+        {
+            "name": "Have {X} Suit(s)",
+            "variants": [
+                [4,  "1"],
+                [13, "2"],
+                [23, "3"]
+            ],
+            "types": ["item", "suit"]
+        },
+        {
+            "name": "Use a Save Station in {X} Regions",
+            "variants": [
+                [20, "3"],
+                [25, "4"]
+            ],
+            "types": ["save-station"]
+        },
+        {
+            "name": "{X} Chozo Save Station(s)",
+            "variants": [
+                [1, "1"],
+                [4, "2"]
+            ],
+            "types": ["save-station", "chozo"]
+        },
+        {
+            "name": "{X} Magmoor Save Station(s)",
+            "variants": [
+                [3,  "1"],
+                [11, "2"]
+            ],
+            "types": ["save-station", "magmoor"]
+        },
+        {
+            "name": "{X} Phendrana Save Station(s)",
+            "variants": [
+                [6,  "1"],
+                [13, "2"],
+                [15, "3"],
+                [19, "4"]
+            ],
+            "types": ["save-station", "phendrana"]
+        },
+        {
+            "name": "{X} Mines Save Station(s)",
+            "variants": [
+                [14, "1"],
+                [23, "2"]
+            ],
+            "types": ["save-station", "mines"]
+        },
+        {
+            "name": "1 Tallon Save Station",
+            "variants": [[18, ""]],
+            "types": ["save-station", "tallon"]
+        },
+        {
+            "name": "{X} Map Station(s)",
+            "variants": [
+                [1,  "1"],
+                [14, "2"],
+                [20, "3"]
+            ],
+            "types": ["map-station"]
+        },
+        {
+            "name": "{X} Missile Station(s)",
+            "variants": [
+                [6,  "1"],
+                [22, "2"]
+            ],
+            "types": ["missile-station"]
+        }
+    ]
+}

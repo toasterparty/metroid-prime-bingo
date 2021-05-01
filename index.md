@@ -24,7 +24,7 @@ Welcome to the wacky world of Metroid Prime Randomizer Bingo. Here, players race
 
 5) Have all participants join the room using the password set above.
 
-6) Reveal the card and start the game when appropriate. Fill tiles on the board as they are completed. Have fun!
+6) Reveal the card and start the game when appropriate. Mark tiles on the board as they are completed. Have fun!
 
 # Variants
 
