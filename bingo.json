@@ -99,7 +99,7 @@
             "types": ["shadow-pirate"]
         },
         {
-            "name": "Clear Metroids in {X} Room(s)",
+            "name": "Clear Normal Metroids in {X} Room(s)",
             "variants": [
                 [8,  "1"],
                 [13, "3"],
