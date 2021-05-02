@@ -20,14 +20,6 @@
             "types": ["minor-boss", "mines"]
         },
         {
-            "name": "{X} Plated Beetle(s)",
-            "variants": [
-                [1, "1"],
-                [5, "2"]
-            ],
-            "types": ["minor-boss", "chozo"]
-        },
-        {
             "name": "{X} Adult Sheegoth",
             "variants": [
                 [4,  "1"],

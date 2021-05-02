@@ -47,7 +47,9 @@ Abusing this rule to deathwarp to save stations after completing Action Goals is
 
 ### Minor/Major Boss (By Name)
 
-Simply defeat the named boss.
+Simply defeat the named boss enemy.
+
+Both Phazon Elite and Omega Pirate count as an Elite Pirate.
 
 ### X Minor Bosses
 
