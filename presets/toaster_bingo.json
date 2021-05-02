@@ -3,7 +3,7 @@
 		"excludeLocations": [],
 		"itemOverrides": [
 			{
-				"count": 46,
+				"count": 43,
 				"name": "Missile Expansion",
 				"state": "shuffled"
 			},
@@ -75,6 +75,16 @@
 			{
 				"count": 2,
 				"name": "Morph Ball Bomb",
+				"state": "shuffled"
+			},
+			{
+				"count": 16,
+				"name": "Energy Tank",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Varia Suit",
 				"state": "shuffled"
 			}
 		],
