@@ -125,7 +125,7 @@ Use the specified number of Save, Map or Missile Stations (X) in the specified R
 # Locations
 
 ### Plated Beetle
-- **Ruined Shrine**
+- **Ruined Shrine** - Before picking up item or After defeating Flaahgra
 - **Main Plaza** - After defeating Flaahgra
 
 ### Sheegoth

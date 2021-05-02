@@ -11,6 +11,14 @@
             "types": ["minor-boss"]
         },
         {
+            "name": "{X} Plated Beetle(s)",
+            "variants": [
+                [1, "1"],
+                [5, "2"]
+            ],
+            "types": ["minor-boss", "chozo", "plated-beetle"]
+        },
+        {
             "name": "{X} Elite Pirate(s)",
             "variants": [
                 [9,  "1"],
