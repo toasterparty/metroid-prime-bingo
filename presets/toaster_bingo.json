@@ -3,18 +3,13 @@
 		"excludeLocations": [],
 		"itemOverrides": [
 			{
-				"count": 48,
+				"count": 46,
 				"name": "Missile Expansion",
 				"state": "shuffled"
 			},
 			{
 				"count": 1,
 				"name": "Morph Ball",
-				"state": "starting-item"
-			},
-			{
-				"count": 1,
-				"name": "Morph Ball Bomb",
 				"state": "starting-item"
 			},
 			{
@@ -75,6 +70,11 @@
 			{
 				"count": 2,
 				"name": "Space Jump Boots",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Morph Ball Bomb",
 				"state": "shuffled"
 			}
 		],
