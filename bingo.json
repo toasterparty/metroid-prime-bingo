@@ -130,18 +130,18 @@
             "types": ["spinner"]
         },
         {
-            "name": "Break {X} Covers/Walls/Rubble Using Power Bombs",
+            "name": "Break {X} Bendenzium Objects",
             "variants": [
-                [5,  "3"],
-                [10, "5"]
+                [5,  "2"],
+                [10, "4"]
             ],
             "types": ["break"]
         },
         {
-            "name": "Break {X} Covers/Walls/Rubble Using Super Missiles",
+            "name": "Break {X} Cordite Objects",
             "variants": [
-                [12, "3"],
-                [19, "5"]
+                [12, "2"],
+                [19, "4"]
             ],
             "types": ["break"]
         },
