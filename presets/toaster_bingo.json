@@ -1,0 +1,160 @@
+{
+	"toaster-bingo": {
+		"excludeLocations": [],
+		"itemOverrides": [
+			{
+				"count": 48,
+				"name": "Missile Expansion",
+				"state": "shuffled"
+			},
+			{
+				"count": 1,
+				"name": "Morph Ball",
+				"state": "starting-item"
+			},
+			{
+				"count": 1,
+				"name": "Morph Ball Bomb",
+				"state": "starting-item"
+			},
+			{
+				"count": 1,
+				"name": "Charge Beam",
+				"state": "starting-item"
+			},
+			{
+				"count": 2,
+				"name": "Wave Beam",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Ice Beam",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Plasma Beam",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Super Missile",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Boost Ball",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Spider Ball",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Ice Spreader",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Flamethrower",
+				"state": "shuffled"
+			},
+			{
+				"count": 6,
+				"name": "Power Bomb Expansion",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Wavebuster",
+				"state": "shuffled"
+			},
+			{
+				"count": 2,
+				"name": "Space Jump Boots",
+				"state": "shuffled"
+			}
+		],
+		"romSettings": {
+			"enableMainPlazaLedgeDoor": true,
+			"hideItemModels": false,
+			"skipHudPopups": true,
+			"skipImpactCrater": false
+		},
+		"rules": {
+			"artifactLocationHints": true,
+			"elevatorShuffle": true,
+			"goal": "artifact-collection",
+			"goalArtifacts": 2,
+			"heatProtection": "varia-only",
+			"junkItems": "random-items",
+			"pointOfNoReturnItems": "allow-visible",
+			"randomStartingItems": {
+				"maximum": 0,
+				"minimum": 0
+			},
+			"shuffleMode": "full",
+			"startingArea": 7,
+			"suitDamageReduction": "default"
+		},
+		"tricks": [
+			"alcoveEscapeWithoutSpaceJump",
+			"climbReflectingPoolWithoutBoostBall",
+			"destroyBombCoversWithPowerBombs",
+			"lateMagmoorNoHeatProtection",
+			"exitPhendranaCanyonNoItems",
+			"fieryShoresAccessWithoutMorphGrapple",
+			"fieryShoresItemSj",
+			"furnaceAccessWithoutSpider",
+			"gatheringHallWithoutSpaceJump",
+			"hallOfTheEldersBombSlotsWithoutSpider",
+			"lowerPhazonMinesAllowPointOfNoReturnEdgeCase",
+			"mainPlazaGrappleLedgeOnlyGrapple",
+			"mainPlazaItemsOnlySpaceJump",
+			"mainPlazaTreeNoSpaceJump",
+			"phendranaTransportSouthToTransportAccessWithoutSpider",
+			"tallonTransportTunnelCMinimumReqs",
+			"towerChamberNoGravity",
+			"triclopsPitItemWithCharge",
+			"vaultAccessFromMainPlaza",
+			"wateryHallUnderwaterFlaahgraSkip",
+			"climbFrigateCrashSite",
+			"climbOreProcessingWithoutGrappleSpider",
+			"climbPhazonProcessingCenterWithoutSpider",
+			"climbRuinedCourtyardWithoutBoostSpider",
+			"climbTowerOfLightWithoutMissiles",
+			"crashedFrigateGammaElevatorWithoutGravity",
+			"crossTwinFiresTunnelWithoutSpider",
+			"crosswayItemFewerReqs",
+			"frigateCrashSiteItemOnlyScanVisor",
+			"frigateCrashSiteItemWithoutGravitySuit",
+			"landingSiteDashWithoutScanVisor",
+			"landingSiteScanDash",
+			"lavaLakeItemOnlyMissiles",
+			"mainQuarryToOreProcessingWithoutGrapple",
+			"plasmaProcessingItemWithoutGrappleSpider",
+			"removePhendranaDepthsGrappleReqs",
+			"removeThermalReqs",
+			"removeXrayReqs",
+			"rootCaveArborChamberWithoutGrapple",
+			"upperRuinedShrineTowerOfLightFewerAccessReqs",
+			"warriorShrineWithoutBoost",
+			"wateryHallUnderwaterSlopeJump",
+			"climbObservatoryWithoutBoost",
+			"crossTwinFiresTunnelSuitless",
+			"greatTreeHallBarsSkip",
+			"eliteResearchInfiniteBoostClip",
+			"lavaLakeItemSuitless",
+			"lowerPhazonMineWithoutSpiderGrapple",
+			"mainQuarryItemWithoutSpider",
+			"observatoryPuzzleSkip",
+			"quarantineMonitorDash",
+			"ruinedFountainItemFlaahgraSkip",
+			"shoreTunnelEscapeWithoutSpaceJump",
+			"warriorShrineMinimumReqs"
+		]
+	}
+}
