@@ -28,7 +28,7 @@ Based off the Odd Weekly Settings preset used for weekly races, this includes:
 - No PONR
 - Very mild trick logic
 
-### Toaster Bingo
+### Toaster's Bingo Preset
 
 {% raw %}
 <a href="toaster_bingo.json" download>
