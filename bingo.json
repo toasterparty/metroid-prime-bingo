@@ -133,7 +133,8 @@
             "name": "Break {X} Bendenzium Objects",
             "variants": [
                 [5,  "2"],
-                [10, "4"]
+                [10, "4"],
+                [20, "8"]
             ],
             "types": ["break"]
         },

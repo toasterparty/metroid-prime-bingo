@@ -86,9 +86,9 @@ Find (Y) rooms with the specified enemy type (X), and defeat all of that enemy i
 
 Use the specified number of spinners with boost ball. Spinners cannot be repeated.
 
-### Break X Covers/Walls/Rubble Using Y
+### Break X [Bendenzium|Cordite] Objects
 
-Find and break the specified number of destructible objects (X) using the specified item (Y). Destructible objects cannot be repeated.
+Find and break the specified number of destructible objects which require either Power Bombs or Super Missiles to destory. Re-destroyed objects do not count. For bendenzium, walls which do not have scan points but require Power Bombs (e.g. Plasma Processing Center) count towards the total.
 
 ### All Hall of the Elders Bomb Slots
 
@@ -208,7 +208,7 @@ Use the specified number of Save, Map or Missile Stations (X) in the specified R
 - **Metroid Quarantine A**
 - **Fungal Hall B**
 
-### Super Missile Walls
+### Super Missile Objects
 - **Biohazard Containment**
 - **Main Plaza**
 - **Sun Tower x2**
@@ -217,3 +217,26 @@ Use the specified number of Save, Map or Missile Stations (X) in the specified R
 - **Ruined Courtyard**
 - **Research Lab Hydra**
 - **Metroid Quarantine B**
+
+### Bendenzium Objects
+- **Life Grove Tunnel**
+- **Life Grove**
+- **Furnace**
+- **Magmoor Caverns**
+- **Warrior Shrine**
+- **Geothermal Core**
+- **Shore Tunnel**
+- **Workstation Tunnel**
+- **Phendrana's Edge**
+- **Security Access A**
+- **Mine Security Station**
+- **Elite Research**
+- **Ore Processing**
+- **Maintenance Tunnel**
+- **Phazon Processing Center**
+- **Omega Research**
+- **Ventilation Shaft**
+- **Omega Research**
+- **Central Dynamo**
+- **Metroid Quarantine A**
+- **Phazon Mining Tunnel**
