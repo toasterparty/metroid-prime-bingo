@@ -36,7 +36,14 @@ def main():
 
             (list[tier-1]).append([types, variant_text])
 
-            txt.write("%s\n" % variant_text)
+            should_chaos = True
+            for type_ in types:
+                if type_.lower() == "finish-in":
+                    should_chaos = False
+                    break
+            
+            if should_chaos:
+                txt.write("%s\n" % variant_text)
 
             del types
     txt.close()
