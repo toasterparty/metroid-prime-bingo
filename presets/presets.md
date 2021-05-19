@@ -39,11 +39,18 @@ Based off the Odd Weekly Settings preset used for weekly races, this includes:
 Designed to be both faster and more demanding at the same time. Features:
 - Starting Items
   - Scan Visor
-  - Charge Beam
   - Morph Ball
+  - Wave Beam
+  - Ice Beam
+  - Grapple Beam
 - Starting Location: *Artifact Temple*
 - Random Elevators
-- 2 Artifacts
 - Visible PONR
 - Mostly Easy tricks with a few Normal
-- every major item has 1 dupe + 2 extra PBs + 2 random items
+- Item Pool
+  - 2 Artifacts
+  - 3 Charge Beam
+  - 1 extra of each Beam Combo
+  - 2 extra Etanks
+  - 1 extra Power Bomb Expansion
+  - 1 random filler item
