@@ -83,7 +83,7 @@
             "name": "Clear Ghosts in {X} Rooms",
             "variants": [
                 [5,  "2"],
-                [4,  "4"],
+                [14, "4"],
                 [19, "6"]
             ],
             "types": ["ghost"]
