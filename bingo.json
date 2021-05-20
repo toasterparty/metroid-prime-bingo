@@ -74,9 +74,13 @@
                 [12, "3 Power Pirates using Super Missiles", "mines"],
                 [14, "3 Wave Pirates using Wavebuster", "mines"],
                 [14, "3 Ice Pirates using Ice Spreader", "mines"],
-                [21, "3 Plasma Pirates with Flamethrower", "mines"],
-                [20, "1 Enemy using Flamethrower (Magmoor or Larger)"]
+                [21, "3 Plasma Pirates using Flamethrower", "mines"]
             ],
+            "types": ["beam-combo"]
+        },
+        {
+            "name": "1 Large Enemy using Flamethrower (Magmoor+)",
+            "variants": [[20, ""]],
             "types": ["beam-combo"]
         },
         {
@@ -369,7 +373,7 @@
             "types": ["finish-in"]
         },
         {
-            "name": "Complete a lap around the Geothermal Core Spider Track",
+            "name": "1 lap around the Geothermal Core Spider Track",
             "variants": [[22,  ""]],
             "types": ["magmoor"]
         }
