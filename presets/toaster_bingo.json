@@ -3,48 +3,23 @@
 		"excludeLocations": [],
 		"itemOverrides": [
 			{
-				"count": 43,
-				"name": "Missile Expansion",
-				"state": "shuffled"
-			},
-			{
-				"count": 1,
-				"name": "Morph Ball",
-				"state": "starting-item"
-			},
-			{
-				"count": 1,
+				"count": 3,
 				"name": "Charge Beam",
+				"state": "shuffled"
+			},
+			{
+				"count": 1,
+				"name": "Wave Beam",
+				"state": "starting-item"
+			},
+			{
+				"count": 1,
+				"name": "Ice Beam",
 				"state": "starting-item"
 			},
 			{
 				"count": 2,
-				"name": "Wave Beam",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Ice Beam",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Plasma Beam",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Super Missile",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Boost Ball",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Spider Ball",
+				"name": "Wavebuster",
 				"state": "shuffled"
 			},
 			{
@@ -58,23 +33,18 @@
 				"state": "shuffled"
 			},
 			{
-				"count": 6,
+				"count": 2,
+				"name": "Super Missile",
+				"state": "shuffled"
+			},
+			{
+				"count": 1,
+				"name": "Morph Ball",
+				"state": "starting-item"
+			},
+			{
+				"count": 5,
 				"name": "Power Bomb Expansion",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Wavebuster",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Space Jump Boots",
-				"state": "shuffled"
-			},
-			{
-				"count": 2,
-				"name": "Morph Ball Bomb",
 				"state": "shuffled"
 			},
 			{
@@ -84,7 +54,12 @@
 			},
 			{
 				"count": 2,
-				"name": "Varia Suit",
+				"name": "Grapple Beam",
+				"state": "starting-item"
+			},
+			{
+				"count": 53,
+				"name": "Missile Expansion",
 				"state": "shuffled"
 			}
 		],

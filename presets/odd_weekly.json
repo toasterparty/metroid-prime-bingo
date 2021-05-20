@@ -13,7 +13,7 @@
 			"hideItemModels": false,
 			"skipFrigate": true,
 			"skipHudPopups": true,
-			"skipImpactCrater": false
+			"skipImpactCrater": true
 		},
 		"rules": {
 			"artifactLocationHints": true,
